@@ -6,12 +6,12 @@ Thank you Seamus Blackley (@SeamusBlackley) for the [Original "recipe"](https://
 
 <!-- MarkdownTOC -->
 
+- [Introduction](#introduction)
 - [Total Ingredients List](#total-ingredients-list)
   - [For Your Active Starter](#for-your-active-starter)
   - [For Your Dough](#for-your-dough)
 - [Step 1. Make a very active starter \(10pm start time\)](#step-1-make-a-very-active-starter-10pm-start-time)
   - [Step 1 Ingredients:](#step-1-ingredients)
-  - [Step 1 Equipment:](#step-1-equipment)
   - [Step 1 Activity:](#step-1-activity)
 - [Step 2. Wait until the starter from step 1 is "very active"](#step-2-wait-until-the-starter-from-step-1-is-very-active)
   - [Step 2 activity:](#step-2-activity)
@@ -55,7 +55,13 @@ Thank you Seamus Blackley (@SeamusBlackley) for the [Original "recipe"](https://
 
 <!-- /MarkdownTOC -->
 
- 
+## Introduction
+
+I'm trying to make this easy to follow and as simple as possible. If it makes you comfortable, imagine there is a long interstitial story with tenuous relevance to making bread here. 
+
+I assume you've made bread before. I skip listing some of the equipment in advance like spoons, small bowls and jars, baking paper etc. because it's not going to be surprising. 
+
+The times are guesses. I'm trying to give you some idea of how this could fit into a day. Don't get hung up on the exact times: Your flour, water, temperature, oven and yeast are going to be different than mine. I'm trying to show what a manageable day of baking might look like. You're going to need to be flexible. Your bake starts 10pm the night before, you're up at 8AM for a bit of mixing and folding, and you're eating warm fresh bread at 3:35PM.
 
 ## Total Ingredients List
 
@@ -81,10 +87,6 @@ Thank you Seamus Blackley (@SeamusBlackley) for the [Original "recipe"](https://
   * 20g of your sourdough starter
   * "Some" water
 
-### Step 1 Equipment:
-
-  * Small bowl or Jar (400-500ml-ish)
-  * Spoon
 
 ### Step 1 Activity: 
 
