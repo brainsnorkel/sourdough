@@ -3,7 +3,57 @@
 Thank you Seamus Blackley (@SeamusBlackley) for the [Original "recipe"](https://threadreaderapp.com/thread/1135281239634485249.html)
 
 ## Table of Contents  
-[Headers](#headers)    
+<!-- MarkdownTOC -->
+
+- Total Ingredients List
+  - For Your Active Starter
+  - For Your Dough
+- Step 1. Make a very active starter \(10pm start time\)
+  - Step 1 Ingredients:
+  - Step 1 Equipment:
+  - Step 1 Activity:
+- Step 2. Wait until the starter from step 1 is "very active"
+  - Step 2 activity:
+- Step 3. Make Dough \(8am\)
+  - Step 3 Ingredients:
+  - Step 3 Equipment
+  - Step 3 Activity
+- Step 4: Wait 30 minutes \(8:30am\)
+- Step 5: Incorporate salt \(9am\)
+  - Step 3 Ingredients:
+  - Step 3: Activity
+- Step 6: Wait 30 minutes
+- Step 7: Folding #1 \(10am\)
+  - Step 7 Activity
+- Step 8: Wait 30 minutes
+- Step 8: Folding #2 \(10:30am\)
+- Step 9: Wait 30 minutes
+- Step 9 Folding #3 \(11am\)
+- Step 9: Wait 30 minutes
+- Step 9 Folding #4 \(11:30am\)
+- Step 10: Wait 30 minutes
+- Step 11: Proofing
+  - Step 11 Ingredients
+  - Step 11 Equipment
+- Step 11 Activity
+- Step 12: Wait until the dough doubles in volume.
+  - Step 12 Activity
+- Step 13: Prep the oven \(1:30PM\)
+- Step 14: Turn out the dough and score the top of the loaf \(2:15PM\)
+  - Step 14 Equipment
+  - Step 14 Activity
+- Step 15: Initial Baking \(2:30PM\)
+  - Step 15 Equipment
+  - Step 15 Activity
+- Step 16: Turn the oven down to 2:30C \(2:40PM\)
+  - Step 16 Activity
+- Step 17: Move the loaf from the oven to a cooling rack \(3:05PM\)
+  - Step 17 Equipment
+  - Step 17 Activity
+- Step 18: Photograph and Consume Bread \(3:35PM\)
+
+<!-- /MarkdownTOC -->
+ 
 
 ## Total Ingredients List
 
