@@ -29,29 +29,29 @@ Thank you Seamus Blackley (@SeamusBlackley) for the [Original "recipe"](https://
 - [Step 8: Wait 30 minutes](#step-8-wait-30-minutes)
 - [Step 8: Folding #2 \(10:30am\)](#step-8-folding-2-1030am)
 - [Step 9: Wait 30 minutes](#step-9-wait-30-minutes)
-- [Step 9 Folding #3 \(11am\)](#step-9-folding-3-11am)
-- [Step 9: Wait 30 minutes](#step-9-wait-30-minutes-1)
-- [Step 9 Folding #4 \(11:30am\)](#step-9-folding-4-1130am)
-- [Step 10: Wait 30 minutes](#step-10-wait-30-minutes)
-- [Step 11: Proofing](#step-11-proofing)
-  - [Step 11 Ingredients](#step-11-ingredients)
-  - [Step 11 Equipment](#step-11-equipment)
-- [Step 11 Activity](#step-11-activity)
-- [Step 12: Wait until the dough doubles in volume.](#step-12-wait-until-the-dough-doubles-in-volume)
-  - [Step 12 Activity](#step-12-activity)
-- [Step 13: Prep the oven \(1:30PM\)](#step-13-prep-the-oven-130pm)
-- [Step 14: Turn out the dough and score the top of the loaf \(2:15PM\)](#step-14-turn-out-the-dough-and-score-the-top-of-the-loaf-215pm)
+- [Step 10: Folding #3 \(11am\)](#step-10-folding-3-11am)
+- [Step 11: Wait 30 minutes](#step-11-wait-30-minutes)
+- [Step 12 Folding #4 \(11:30am\)](#step-12-folding-4-1130am)
+- [Step 13: Wait 30 minutes](#step-13-wait-30-minutes)
+- [Step 14: Proofing](#step-14-proofing)
+  - [Step 14 Ingredients](#step-14-ingredients)
   - [Step 14 Equipment](#step-14-equipment)
-  - [Step 14 Activity](#step-14-activity)
-- [Step 15: Initial Baking \(2:30PM\)](#step-15-initial-baking-230pm)
-  - [Step 15 Equipment](#step-15-equipment)
+- [Step 14 Activity](#step-14-activity)
+- [Step 15: Wait until the dough doubles in volume.](#step-15-wait-until-the-dough-doubles-in-volume)
   - [Step 15 Activity](#step-15-activity)
-- [Step 16: Turn the oven down to 2:30C \(2:40PM\)](#step-16-turn-the-oven-down-to-230c-240pm)
-  - [Step 16 Activity](#step-16-activity)
-- [Step 17: Move the loaf from the oven to a cooling rack \(3:05PM\)](#step-17-move-the-loaf-from-the-oven-to-a-cooling-rack-305pm)
+- [Step 16: Prep the oven \(1:30PM\)](#step-16-prep-the-oven-130pm)
+- [Step 17: Turn out the dough and score the top of the loaf \(2:15PM\)](#step-17-turn-out-the-dough-and-score-the-top-of-the-loaf-215pm)
   - [Step 17 Equipment](#step-17-equipment)
   - [Step 17 Activity](#step-17-activity)
-- [Step 18: Photograph and Consume Bread \(3:35PM\)](#step-18-photograph-and-consume-bread-335pm)
+- [Step 18: Initial Baking \(2:30PM\)](#step-18-initial-baking-230pm)
+  - [Step 18 Equipment](#step-18-equipment)
+  - [Step 18 Activity](#step-18-activity)
+- [Step 19: Turn the oven down to 220C \(2:40PM\)](#step-19-turn-the-oven-down-to-220c-240pm)
+  - [Step 19 Activity](#step-19-activity)
+- [Step 20: Move the loaf from the oven to a cooling rack \(3:05PM\)](#step-20-move-the-loaf-from-the-oven-to-a-cooling-rack-305pm)
+  - [Step 20 Equipment](#step-20-equipment)
+  - [Step 20 Activity](#step-20-activity)
+- [Step 21: Photograph and Consume Bread \(3:35PM\)](#step-21-photograph-and-consume-bread-335pm)
 
 <!-- /MarkdownTOC -->
 
@@ -178,26 +178,26 @@ This is called a fold:
 
 ## Step 9: Wait 30 minutes 
 
-## Step 9 Folding #3 (11am)
+## Step 10: Folding #3 (11am)
 
-## Step 9: Wait 30 minutes
+## Step 11: Wait 30 minutes
 
-## Step 9 Folding #4 (11:30am)
+## Step 12 Folding #4 (11:30am)
 
-## Step 10: Wait 30 minutes
+## Step 13: Wait 30 minutes
 
-## Step 11: Proofing
+## Step 14: Proofing
 
-### Step 11 Ingredients
+### Step 14 Ingredients
 
   * Enough flour to line a teatowel or proofing basket
 
-### Step 11 Equipment
+### Step 14 Equipment
 
   * Proofing basket or bowl and tight-weave teatowel
   * A dry teatowel to cover the loaf as it proofs
 
-## Step 11 Activity
+## Step 14 Activity
 
   * Prepare the proofing basket or bowl:
     * Choose one of these options:
@@ -207,22 +207,22 @@ This is called a fold:
 
 Place the dough gently in the proofing basket or bowl. Drape the dry tea towel to cover.
 
-## Step 12: Wait until the dough doubles in volume.
+## Step 15: Wait until the dough doubles in volume.
 
-### Step 12 Activity
+### Step 15 Activity
 
 Set a timer for an hour. Check how the dough is going. Set another timer. Some days and some flours might need hours. 
 
-## Step 13: Prep the oven (1:30PM)
+## Step 16: Prep the oven (1:30PM)
 
   * Get your oven to 240-260C. If you are baking in a dutch oven then warm the oven with the dutch over   * inside.
   * When the thermostat tells you it's at the et temperature wait another 10-15 mins.
 
-## Step 14: Turn out the dough and score the top of the loaf (2:15PM)
+## Step 17: Turn out the dough and score the top of the loaf (2:15PM)
 
 This is getting your loaf ready to put in the oven for baking. You are choosing a surface that will help you get your bread into the oven easily that doesn't mess up the shape of your loaf or make it hard to get out of the oven. 
 
-### Step 14 Equipment
+### Step 17 Equipment
 
   * If you have proofed your loaf on baking paper you do not need more baking paper
   * A very sharp knife like a (sterile) razor or a thin paper cutting or Stanley knife
@@ -231,44 +231,44 @@ This is getting your loaf ready to put in the oven for baking. You are choosing 
     * A baking tray with baking paper lining it, or
     * A baking tray with a layer of semolina
 
-### Step 14 Activity
+### Step 17 Activity
 
   * Carefully turn out your loaf onto your pre-baking surface of choice (if necessary)
   * Use the knife to score the surface. Try to make sure the cuts will open in a way that lets the loaf expand without cracking.
 
-## Step 15: Initial Baking (2:30PM)
+## Step 18: Initial Baking (2:30PM)
 
-### Step 15 Equipment
+### Step 18 Equipment
 
   * If you are baking in an open oven and not a dutch over, you will need an oven-proof tray to throw a few ice cubes in or some cold water.
 
-### Step 15 Activity
+### Step 18 Activity
 
   * (If required) Place the ice cubes in a tray the oven. Do not put the tray immediately underneath where   * the loaf will bake or the steam will cool the botton of your loaf and you'll have an undercooked base.
   * Move your loaf into the ~250C oven. Set a 10 minute timer. The oven will remain at 250C for 10 minutes,   * then we'll turn it down to 220-230C
   * Do not open the oven until the loaf is fully baked.
 
-## Step 16: Turn the oven down to 2:30C (2:40PM)
+## Step 19: Turn the oven down to 220C (2:40PM)
 
-### Step 16 Activity
+### Step 19 Activity
 
   * After 10 minutes at 250C turn the oven down to 220C.
   * Set a timer for 25 minutes.
   * Do not open the oven until the 25 minutes has passed.
 
-## Step 17: Move the loaf from the oven to a cooling rack (3:05PM)
+## Step 20: Move the loaf from the oven to a cooling rack (3:05PM)
 
-### Step 17 Equipment
+### Step 20 Equipment
 
   * A cooling rack
 
-### Step 17 Activity
+### Step 20 Activity
 
   * Turn off the oven
   * Move the loaf from the oven to the cooling rack
   * Set a timer for 30 minutes. Do not cut the loaf before this timer goes off.
 
-## Step 18: Photograph and Consume Bread (3:35PM)
+## Step 21: Photograph and Consume Bread (3:35PM)
 
 
 
