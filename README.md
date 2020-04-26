@@ -1,6 +1,6 @@
 # Concise Sourdough
 
-Thank you Seamus Blackley ([@SeamusBlackley](https://twitter.com/SeamusBlackley)) for the [original recipe](https://twitter.com/SeamusBlackley/status/1135281239634485249?s=20). @ThreadReader version of the thread: (https://threadreaderapp.com/thread/1135281239634485249.html). 
+Thank you Seamus Blackley ([@SeamusBlackley](https://twitter.com/SeamusBlackley)) for the [original recipe](https://twitter.com/SeamusBlackley/status/1135281239634485249?s=20). [@ThreadReader version of the thread](https://threadreaderapp.com/thread/1135281239634485249.html). 
 
 ## Table of Contents  
 
@@ -47,7 +47,6 @@ Thank you Seamus Blackley ([@SeamusBlackley](https://twitter.com/SeamusBlackley)
 - [Step 18: Turn the oven down to 220C \(430F\) \(2:40PM\)](#step-18-turn-the-oven-down-to-220c-430f-240pm)
   - [Activity](#activity-8)
 - [Step 19: Move the loaf from the oven to a cooling rack \(3:05PM\)](#step-19-move-the-loaf-from-the-oven-to-a-cooling-rack-305pm)
-  - [Equipment](#equipment-4)
   - [Activity](#activity-9)
 - [Step 20: Photograph and Consume Bread \(3:35PM\)](#step-20-photograph-and-consume-bread-335pm)
 
@@ -55,13 +54,15 @@ Thank you Seamus Blackley ([@SeamusBlackley](https://twitter.com/SeamusBlackley)
 
 ## Introduction
 
-This recipe is intended to be easy to follow and as simple as possible. There are no pictures, but there are links to clarifying source material and videos.
+This recipe is intended to be text-only, and easy to follow. While there are no pictures, there are links to clarifying source material and videos.
 
-This recipe assumes you've made bread before, so equipment like spoons, small bowls & jars, baking paper are not always listed in the required equipment at each step. 
+Assumign you've made bread before equipment like spoons, small bowls & jars, baking paper are not always listed ahead of each step. 
 
-The wall clock times are very rough guides to give you some idea of how this could fit into your day. In this recipe your bake starts 10pm the night before. Then you're up at 8AM for a bit of mixing and folding, and you're eating warm fresh bread at 3:35PM.
+The wall clock times are very rough guides to give you some idea of how this could fit into your day. The conceit of this recipe is that your bake starts 10pm the night before. You awake before 8AM for a bit of mixing and folding, and you're eating warm fresh bread at 3:35PM.
 
-Your flour, water, temperature, oven and yeast are going to be different than those used for this recipe so you will need to adapt to your own conditions. 
+Your flour, water, temperature, oven and yeast are going to be different than those used for this recipe so please adapt to your own conditions. 
+
+Feel free to raise issues and send suggestions https://github.com/brainsnorkel/sourdough or @crgentle
 
 ## Main Ingredients List
 
@@ -167,12 +168,10 @@ The dough should be ["a bit tacky, but not sticky."](https://twitter.com/SeamusB
 This is a [fold](https://twitter.com/SeamusBlackley/status/1135343570645184512?s=20):
 
   * Pick up the dough ball in your "off" hand and gently pinch one edge with your primary hand
-  * Pull the edge out and up over the dough ball in your hand. 
-
-  * Fold the dough ball 4 to 8 times total, rotating a little each time.
-
-  * Turn the folded side down and form your dough back into a ball.
-  * Place the dough back in the bowl.
+  * Pull the edge out and up over the dough ball in your hand
+  * Fold the dough ball 4 to 8 times total, rotating a little each time
+  * Turn the folded side down and form your dough back into a ball
+  * Place the dough back in the bowl
 
 ## Step 8: Wait 30 minutes 
 
@@ -228,8 +227,8 @@ This is getting your loaf ready to _easily_ put in the oven for baking. You are 
   * If you have proofed your loaf on baking paper you do not need more baking paper
   * A very sharp knife like a (sterile) razor or a thin paper cutting or Stanley knife
   * Either: 
-    * A length of baking paper that is long enough for you to carry your loaf in a sling to put in your dutch oven, or
-    * A baking tray with baking paper lining it, or
+    * A length of baking paper that is long enough for you to carry your loaf in a sling to put in your dutch oven, *or*
+    * A baking tray with baking paper lining it, *or*
     * [A baking tray with a layer of semolina](https://twitter.com/SeamusBlackley/status/1135392534820077570?s=20)
 
 ### Activity
@@ -253,21 +252,17 @@ This is getting your loaf ready to _easily_ put in the oven for baking. You are 
 
 ### Activity
 
-  * After 10 minutes at 250C (480F) turn the oven down to 220C (430F).
-  * Set a timer for 25 minutes.
-  * Do not open the oven until the 25 minutes has passed.
+  * After 10 minutes at 250C (480F) turn the oven down to 220C (430F)
+  * Set a timer for 25 minutes
+  * Do not open the oven until the 25 minutes has passed
 
 ## Step 19: Move the loaf from the oven to a cooling rack (3:05PM)
-
-### Equipment
-
-  * A cooling rack
 
 ### Activity
 
   * Turn off the oven
-  * Move the loaf from the oven to the cooling rack
-  * Set a timer for 30 minutes. *Do not cut the loaf before this timer goes off*.
+  * Move the loaf from the oven to your cooling rack
+  * Set a timer for 30 minutes. *Do not cut the loaf before this timer goes off*
 
 ## Step 20: [Photograph and Consume Bread](https://twitter.com/SeamusBlackley/status/1135402087980789762?s=20) (3:35PM)
 
