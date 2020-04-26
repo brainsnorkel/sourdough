@@ -1,6 +1,6 @@
 # Concise Sourdough
 
-Thank you Seamus Blackley ([@SeamusBlackley](https://twitter.com/SeamusBlackley)) for the [original recipe](https://twitter.com/SeamusBlackley/status/1135281239634485249?s=20). [@ThreadReader version of the thread](https://threadreaderapp.com/thread/1135281239634485249.html). 
+Thank you Seamus Blackley ([@SeamusBlackley](https://twitter.com/SeamusBlackley)) for the [original recipe](https://twitter.com/SeamusBlackley/status/1135281239634485249?s=20) ([@ThreadReader version of the recipe thread](https://threadreaderapp.com/thread/1135281239634485249.html)). 
 
 ## Table of Contents  
 
@@ -31,24 +31,25 @@ Thank you Seamus Blackley ([@SeamusBlackley](https://twitter.com/SeamusBlackley)
 - [Step 9: Wait 30 minutes](#step-9-wait-30-minutes)
 - [Step 10: Folding #3 \(11am\)](#step-10-folding-3-11am)
 - [Step 11: Wait 30 minutes](#step-11-wait-30-minutes)
-- [Step 12: Folding #4](#step-12-folding-4)
-- [Step 13: Proofing](#step-13-proofing)
+- [Step 12: Folding #4 \(11:30am\)](#step-12-folding-4-1130am)
+- [Step 13: Wait 30 minutes](#step-13-wait-30-minutes)
+- [Step 14: Proofing \(12:00pm\)](#step-14-proofing-1200pm)
   - [Ingredients](#ingredients-3)
   - [Equipment](#equipment-1)
   - [Activity](#activity-5)
-- [Step 14: Wait until the dough doubles in volume.](#step-14-wait-until-the-dough-doubles-in-volume)
-- [Step 15: Prep the oven \(1:30PM\)](#step-15-prep-the-oven-130pm)
-- [Step 16: Turn out the dough and score the top of the loaf \(2:15PM\)](#step-16-turn-out-the-dough-and-score-the-top-of-the-loaf-215pm)
+- [Step 15: Wait until the dough doubles in volume.](#step-15-wait-until-the-dough-doubles-in-volume)
+- [Step 16: Prep the oven \(1:30PM\)](#step-16-prep-the-oven-130pm)
+- [Step 17: Turn out the dough and score the top of the loaf \(2:15PM\)](#step-17-turn-out-the-dough-and-score-the-top-of-the-loaf-215pm)
   - [Equipment](#equipment-2)
   - [Activity](#activity-6)
-- [Step 17: Initial Baking \(2:30PM\)](#step-17-initial-baking-230pm)
+- [Step 18: Initial Baking \(2:30PM\)](#step-18-initial-baking-230pm)
   - [Equipment](#equipment-3)
   - [Activity](#activity-7)
-- [Step 18: Turn the oven down to 220C \(430F\) \(2:40PM\)](#step-18-turn-the-oven-down-to-220c-430f-240pm)
+- [Step 19: Turn the oven down to 220C \(430F\) \(2:40PM\)](#step-19-turn-the-oven-down-to-220c-430f-240pm)
   - [Activity](#activity-8)
-- [Step 19: Move the loaf from the oven to a cooling rack \(3:05PM\)](#step-19-move-the-loaf-from-the-oven-to-a-cooling-rack-305pm)
+- [Step 20: Move the loaf from the oven to a cooling rack \(3:05PM\)](#step-20-move-the-loaf-from-the-oven-to-a-cooling-rack-305pm)
   - [Activity](#activity-9)
-- [Step 20: Photograph and Consume Bread \(3:35PM\)](#step-20-photograph-and-consume-bread-335pm)
+- [Step 21: Photograph and Consume Bread \(3:35PM\)](#step-21-photograph-and-consume-bread-335pm)
 
 <!-- /MarkdownTOC -->
 
@@ -184,9 +185,11 @@ This is a [fold](https://twitter.com/SeamusBlackley/status/1135343570645184512?s
 
 ## Step 11: Wait 30 minutes
 
-## Step 12: Folding #4 
+## Step 12: Folding #4 (11:30am)
 
-## Step 13: Proofing
+## Step 13: Wait 30 minutes
+
+## Step 14: Proofing (12:00pm)
 
 ### Ingredients
 
@@ -212,14 +215,14 @@ This is a [fold](https://twitter.com/SeamusBlackley/status/1135343570645184512?s
   * Place the dusted dough gently in the proofing basket or bowl. 
   * [Drape the dry tea towel or waxed paper to cover](https://twitter.com/SeamusBlackley/status/1135361685089210368?s=20).
 
-## Step 14: Wait until the dough doubles in volume.
+## Step 15: Wait until the dough doubles in volume.
 
-## Step 15: Prep the oven (1:30PM)
+## Step 16: Prep the oven (1:30PM)
 
   * Get your oven to 240-260C (465-500F). If you are baking in a dutch oven then warm the oven with the dutch oven already inside.
   * When the thermostat tells you it's at the right temperature wait another 10-15 mins.
 
-## Step 16: Turn out the dough and score the top of the loaf (2:15PM)
+## Step 17: Turn out the dough and score the top of the loaf (2:15PM)
 
 This is getting your loaf ready to _easily_ put in the oven for baking. You are choosing a surface that will help you gently get the dough into the oven and preserve the shape of your loaf.
 
@@ -237,7 +240,7 @@ This is getting your loaf ready to _easily_ put in the oven for baking. You are 
   * Carefully turn out your loaf onto your pre-baking surface of choice (if necessary)
   * [Use the knife to score the surface of your loaf. Try to make sure the cuts will open in a way that lets the loaf expand without cracking](https://twitter.com/SeamusBlackley/status/1135394087094312962?s=20).
 
-## Step 17: Initial Baking (2:30PM)
+## Step 18: Initial Baking (2:30PM)
 
 ### Equipment
 
@@ -249,7 +252,7 @@ This is getting your loaf ready to _easily_ put in the oven for baking. You are 
   * Move your loaf into the ~250C (480F) oven. Set a 10 minute timer. The oven will remain at 250C for 10 minutes, then we'll turn it down to 220-230C (430-445F)
   * Do not open the oven until the loaf is fully baked.
 
-## Step 18: Turn the oven down to 220C (430F) (2:40PM)
+## Step 19: Turn the oven down to 220C (430F) (2:40PM)
 
 ### Activity
 
@@ -258,15 +261,14 @@ This is getting your loaf ready to _easily_ put in the oven for baking. You are 
   * Do not open the oven until the 25 minutes has passed
 
 
-## Step 19: Move the loaf from the oven to a cooling rack (3:05PM)
+## Step 20: Move the loaf from the oven to a cooling rack (3:05PM)
 
 ### Activity
 
   * Turn off the oven
-
   * Move the loaf from the oven to your cooling rack
   * Set a timer for 30 minutes. *Do not cut the loaf before this timer goes off*
 
-## Step 20: [Photograph and Consume Bread](https://twitter.com/SeamusBlackley/status/1135402087980789762?s=20) (3:35PM)
+## Step 21: [Photograph and Consume Bread](https://twitter.com/SeamusBlackley/status/1135402087980789762?s=20) (3:35PM)
 
 
