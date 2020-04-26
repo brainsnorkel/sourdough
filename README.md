@@ -1,175 +1,177 @@
 # Concise Sourdough
 
-Thank you Seamus Blackley ([@SeamusBlackley](https://twitter.com/SeamusBlackley)) for the [Original recipe](https://threadreaderapp.com/thread/1135281239634485249.html).
+Thank you Seamus Blackley ([@SeamusBlackley](https://twitter.com/SeamusBlackley)) for the [original recipe](https://twitter.com/SeamusBlackley/status/1135281239634485249?s=20). @ThreadReader version of the thread: (https://threadreaderapp.com/thread/1135281239634485249.html). 
 
 ## Table of Contents  
 
 <!-- MarkdownTOC -->
 
 - [Introduction](#introduction)
-- [Total Ingredients List](#total-ingredients-list)
-  - [For Your Active Starter](#for-your-active-starter)
-  - [For Your Dough](#for-your-dough)
-- [Step 1. Make a very active starter \(10pm start time\)](#step-1-make-a-very-active-starter-10pm-start-time)
-  - [Step 1 Ingredients:](#step-1-ingredients)
-  - [Step 1 Activity:](#step-1-activity)
-- [Step 2. Wait until the starter from step 1 is "very active"](#step-2-wait-until-the-starter-from-step-1-is-very-active)
-  - [Step 2 activity:](#step-2-activity)
-- [Step 3. Make Dough \(8am\)](#step-3-make-dough-8am)
-  - [Step 3 Ingredients:](#step-3-ingredients)
-  - [Step 3 Equipment](#step-3-equipment)
-  - [Step 3 Activity](#step-3-activity)
+- [Main Ingredients List](#main-ingredients-list)
+  - [Bangin' Starter](#bangin-starter)
+  - [Dough](#dough)
+- [Step 1: Make a bangin' starter \(10pm start time\)](#step-1-make-a-bangin-starter-10pm-start-time)
+  - [Ingredients](#ingredients)
+  - [Activity](#activity)
+- [Step 2: Wait until the starter from step 1 is "very active"](#step-2-wait-until-the-starter-from-step-1-is-very-active)
+  - [Activity:](#activity-1)
+- [Step 3: Make Dough \(8am\)](#step-3-make-dough-8am)
+  - [Ingredients](#ingredients-1)
+  - [Equipment](#equipment)
+  - [Activity](#activity-2)
 - [Step 4: Wait 30 minutes \(8:30am\)](#step-4-wait-30-minutes-830am)
 - [Step 5: Incorporate salt \(9am\)](#step-5-incorporate-salt-9am)
-  - [Step 3 Ingredients:](#step-3-ingredients-1)
-  - [Step 3: Activity](#step-3-activity-1)
+  - [Ingredients:](#ingredients-2)
+  - [Activity](#activity-3)
 - [Step 6: Wait 30 minutes](#step-6-wait-30-minutes)
 - [Step 7: Folding #1 \(10am\)](#step-7-folding-1-10am)
-  - [Step 7 Activity](#step-7-activity)
+  - [Activity](#activity-4)
 - [Step 8: Wait 30 minutes](#step-8-wait-30-minutes)
 - [Step 8: Folding #2 \(10:30am\)](#step-8-folding-2-1030am)
 - [Step 9: Wait 30 minutes](#step-9-wait-30-minutes)
 - [Step 10: Folding #3 \(11am\)](#step-10-folding-3-11am)
 - [Step 11: Wait 30 minutes](#step-11-wait-30-minutes)
-- [Step 12 Folding #4 \(11:30am\)](#step-12-folding-4-1130am)
-- [Step 13: Wait 30 minutes](#step-13-wait-30-minutes)
-- [Step 14: Proofing](#step-14-proofing)
-  - [Step 14 Ingredients](#step-14-ingredients)
-  - [Step 14 Equipment](#step-14-equipment)
-- [Step 14 Activity](#step-14-activity)
-- [Step 15: Wait until the dough doubles in volume.](#step-15-wait-until-the-dough-doubles-in-volume)
-  - [Step 15 Activity](#step-15-activity)
-- [Step 16: Prep the oven \(1:30PM\)](#step-16-prep-the-oven-130pm)
-- [Step 17: Turn out the dough and score the top of the loaf \(2:15PM\)](#step-17-turn-out-the-dough-and-score-the-top-of-the-loaf-215pm)
-  - [Step 17 Equipment](#step-17-equipment)
-  - [Step 17 Activity](#step-17-activity)
-- [Step 18: Initial Baking \(2:30PM\)](#step-18-initial-baking-230pm)
-  - [Step 18 Equipment](#step-18-equipment)
-  - [Step 18 Activity](#step-18-activity)
-- [Step 19: Turn the oven down to 220C \(2:40PM\)](#step-19-turn-the-oven-down-to-220c-240pm)
-  - [Step 19 Activity](#step-19-activity)
-- [Step 20: Move the loaf from the oven to a cooling rack \(3:05PM\)](#step-20-move-the-loaf-from-the-oven-to-a-cooling-rack-305pm)
-  - [Step 20 Equipment](#step-20-equipment)
-  - [Step 20 Activity](#step-20-activity)
-- [Step 21: Photograph and Consume Bread \(3:35PM\)](#step-21-photograph-and-consume-bread-335pm)
+- [Step 12: Folding #4](#step-12-folding-4)
+- [Step 13: Proofing](#step-13-proofing)
+  - [Ingredients](#ingredients-3)
+  - [Equipment](#equipment-1)
+  - [Activity](#activity-5)
+- [Step 14: Wait until the dough doubles in volume.](#step-14-wait-until-the-dough-doubles-in-volume)
+- [Step 15: Prep the oven \(1:30PM\)](#step-15-prep-the-oven-130pm)
+- [Step 16: Turn out the dough and score the top of the loaf \(2:15PM\)](#step-16-turn-out-the-dough-and-score-the-top-of-the-loaf-215pm)
+  - [Equipment](#equipment-2)
+  - [Activity](#activity-6)
+- [Step 17: Initial Baking \(2:30PM\)](#step-17-initial-baking-230pm)
+  - [Equipment](#equipment-3)
+  - [Activity](#activity-7)
+- [Step 18: Turn the oven down to 220C \(430F\) \(2:40PM\)](#step-18-turn-the-oven-down-to-220c-430f-240pm)
+  - [Activity](#activity-8)
+- [Step 19: Move the loaf from the oven to a cooling rack \(3:05PM\)](#step-19-move-the-loaf-from-the-oven-to-a-cooling-rack-305pm)
+  - [Equipment](#equipment-4)
+  - [Activity](#activity-9)
+- [Step 20: Photograph and Consume Bread \(3:35PM\)](#step-20-photograph-and-consume-bread-335pm)
 
 <!-- /MarkdownTOC -->
 
 ## Introduction
 
-I'm trying to make this easy to follow and as simple as possible. If it makes you comfortable, imagine there is a long interstitial story with tenuous relevance to making bread here. 
+This recipe is intended to be easy to follow and as simple as possible. There are no pictures, but there are links to clarifying source material and videos.
 
-I assume you've made bread before. I skip listing some of the equipment in advance like spoons, small bowls and jars, baking paper etc. because it's not going to be surprising. 
+This recipe assumes you've made bread before, so equipment like spoons, small bowls & jars, baking paper are not always listed in the required equipment at each step. 
 
-The times are guesses. I'm trying to give you some idea of how this could fit into a day. Don't get hung up on the exact times: Your flour, water, temperature, oven and yeast are going to be different than mine. I'm trying to show what a manageable day of baking might look like. You're going to need to be flexible. Your bake starts 10pm the night before, you're up at 8AM for a bit of mixing and folding, and you're eating warm fresh bread at 3:35PM.
+The wall clock times are very rough guides to give you some idea of how this could fit into your day. In this recipe your bake starts 10pm the night before. Then you're up at 8AM for a bit of mixing and folding, and you're eating warm fresh bread at 3:35PM.
 
-## Total Ingredients List
+Your flour, water, temperature, oven and yeast are going to be different than those used for this recipe so you will need to adapt to your own conditions. 
 
-### For Your Active Starter
+## Main Ingredients List
 
-  * 20g your favourite starter
-  * 80-90g flour
+### Bangin' Starter
+
+  * 20g (1Tbsp) of your [favourite](https://twitter.com/shoelaces3/status/1244252079041974272?s=21) [starter](https://twitter.com/SeamusBlackley/status/1140945355992965121?s=20)
+  * 80-90g (3oz) flour
   * "Enough" water to make the starter the consistency of a thick shake
 
-### For Your Dough
+### Dough
 
-  * 500g flour (+ a little (~150-200g) more for dusting)
-  * 250ml water 
-  * 10g salt
-  * 25ml olive oil (a splash or two)
-  * (optional) 50g semolina
+  * 500g (1.1lb) flour (+ a little (~150-200g) more for dusting)
+  * 250ml (1 cup) water 
+  * 10g (1tsp) salt
+  * 25ml (1.5Tbsp) olive oil (a splash or two)
 
-## Step 1. Make a very active starter (10pm start time)
+## Step 1: Make a bangin' starter (10pm start time)
 
-### Step 1 Ingredients:
+### Ingredients
 
-  * 80-90g of flour
-  * 20g of your sourdough starter
-  * "Some" water
+  * 80-90g (3oz) of flour
+  * 20g (1Tbsp) of your sourdough starter
+  * Some water
 
-
-### Step 1 Activity: 
+### Activity
 
 In a small bowl or jar:
 
-  * Add 80-90g of flour
-  * Add 20g of your sourdough starter
-  * Stir in enough water to bring the starter mix to the consistency of a thickshake.
+  * Add 80-90g (3oz) of flour
+  * Add 20g (1Tbsp) of your sourdough starter
+  * Stir in enough water to bring the starter mix to the [consistency of a thickshake](https://twitter.com/SeamusBlackley/status/1135288160823328768?s=20).
 
-Cover and keep warm until "very active." Very active is when the bubbles push up the top of your starter mix to become "3D"
+Cover and keep warm until "very active." Very active is when the bubbles [push up the top of your starter mix to become "3D."](https://twitter.com/SeamusBlackley/status/1135318460265746434?s=20)
 
 On a cool day this might take 6-8 hours. If the starter is in a cool place then consider starting your very active starter last thing before bed.
 
-## Step 2. Wait until the starter from step 1 is "very active" 
+## Step 2: Wait until the starter from step 1 is "very active" 
 
-### Step 2 activity:
+### Activity:
 
 Go do some work or sleep or something.
 
-## Step 3. Make Dough (8am)
+## Step 3: Make Dough (8am)
 
-### Step 3 Ingredients:
+### Ingredients
 
-  * 500g flour
-  * 35ml olive oil 
-  * 250ml water
+  * 500g (1.1lb) flour
+  * 25ml (1.5tbs)olive oil 
+  * 250ml (1 cup) water
 
-### Step 3 Equipment
+### Equipment
 
   * Big bowl
   * (optional) A 2nd big bowl
   * An insulating lid for your bowl (e.g. plate, wooden board)
-  * Wooden Spoon
 
-### Step 3 Activity
+### Activity
 
 In a _big_ bowl:
 
-  * Add 250ml water
-  * Splash ~25ml of olive oil
-  * Add all of your bangin starter from step 1 (should be a bit floaty or bouyant with all that bubble)
-  * Stir in 100g of your 500g of flour and stir to a paste, then thoroughly incorporate the remaining 400g with spoon or hands.
+  * Add 250ml (1 cup) water
+  * Splash ~25ml (1.5Tbsp) of olive oil
+  * Add all of your bangin starter from step 1 ([should be a bit floaty or bouyant with all that bubble](https://twitter.com/SeamusBlackley/status/1135319551812329472?s=20))
+  * Stir in 100g (3.5oz) of your 500g (1.1lb) of flour and stir to a paste with as much aeration as you can manage, then [thoroughly incorporate the remaining 400g (0.9lb) of your flour](https://twitter.com/SeamusBlackley/status/1135322614828740608?s=20) with a [spoon or hands](https://twitter.com/SeamusBlackley/status/1135323253348507650?s=20).
 
-The dough should now be a ball that's a bit crumbly looking and not wet or too sticky. Add a little more water or flour if needed and incorporate thoroughly with a bit of kneading in the bowl.  
+The dough should now be a ball that's a bit crumbly looking and [not wet or too sticky](https://twitter.com/SeamusBlackley/status/1135323778886524930?s=20). Add a little more water or flour if needed and incorporate thoroughly with a bit of kneading in the bowl.  
 
-Add a little extra oil to the bowl if you're worried about sticking or transfer to another big bowl that has enough olive oil to give the inside a sheen.
+Add a little extra oil to the bowl if you're worried about sticking or transfer to another big bowl that has [enough olive oil to give the inside a sheen](https://twitter.com/SeamusBlackley/status/1135325743607508992?s=20).
 
-Put an insulating lid or cover on top of the bowl. 
+[Put an insulating lid or cover on top of the bowl](https://twitter.com/SeamusBlackley/status/1135327738259107840?s=20). 
 
 ## Step 4: Wait 30 minutes (8:30am)
 
 ## Step 5: Incorporate salt (9am)
 
-### Step 3 Ingredients:
+### Ingredients:
 
-  * 10g salt
+  * 10g (1tsp) salt
+  * Some dusting flour
 
-### Step 3: Activity
+### Activity
 
-  * Flatten the dough in the bowl into as much of a pancake as you can.
+  * [Add some dusting flour to be bottom of your bowl](https://twitter.com/SeamusBlackley/status/1135328857660305408?s=20)
+  * [Flatten the dough in the bowl into as much of a pancake as you can.](https://twitter.com/SeamusBlackley/status/1135335652210253826?s=20)
   * Use fingers to make lots of craters all over the dough pancake's top.
-  * Sprinkle 5g or your 10g salt evenly into the craters in the dough.
-  * Slowly roll the dough into a cigar (still in the bowl)
+  * Sprinkle 5g (0.5tsp) or your 10g (1tsp) salt evenly into the craters in the dough.
+  * [Slowly roll the dough into a cigar (still in the bowl)](https://twitter.com/SeamusBlackley/status/1135336356039708672?s=20)
   * Fold the cigar in half and then press the dough out into a pancake again.
   * Use fingers to make lots of craters all over the dough pancake's top.
   * Sprinkle what remains of your salt evenly into the craters in the dough.
-  * Roll the dough into a cigar (still in the bowl)
-  * Shape the dough back into a smooth ball and place back in bowl. 
+  * [Roll the dough into a cigar (still in the bowl)](https://twitter.com/SeamusBlackley/status/1135336969418887169?s=20)
+  * [Knead the dough until it stiffens a little](https://twitter.com/SeamusBlackley/status/1135338079227588608?s=20)
+  * Shape the dough back into a smooth ball and place back in bowl with a cover. 
+
+The dough should be ["a bit tacky, but not sticky."](https://twitter.com/SeamusBlackley/status/1135338844520214528?s=20)
 
 ## Step 6: Wait 30 minutes
 
 ## Step 7: Folding #1 (10am)
 
-### Step 7 Activity
+### Activity
 
-This is called a fold:
+This is a [fold](https://twitter.com/SeamusBlackley/status/1135343570645184512?s=20):
 
   * Pick up the dough ball in your "off" hand and gently pinch one edge with your primary hand
   * Pull the edge out and up over the dough ball in your hand. 
 
   * Fold the dough ball 4 to 8 times total, rotating a little each time.
 
-  * Turn the folded side down and form it back into a ball.
+  * Turn the folded side down and form your dough back into a ball.
   * Place the dough back in the bowl.
 
 ## Step 8: Wait 30 minutes 
@@ -182,22 +184,21 @@ This is called a fold:
 
 ## Step 11: Wait 30 minutes
 
-## Step 12 Folding #4 (11:30am)
+## Step 12: Folding #4 
 
-## Step 13: Wait 30 minutes
+## Step 13: Proofing
 
-## Step 14: Proofing
-
-### Step 14 Ingredients
+### Ingredients
 
   * Enough flour to line a teatowel or proofing basket
+  * A small amount of semolina or dusting flour
 
-### Step 14 Equipment
+### Equipment
 
   * Proofing basket or bowl and tight-weave teatowel
-  * A dry teatowel to cover the loaf as it proofs
+  * A dry teatowel or waxed paper to cover the loaf as it proofs
 
-## Step 14 Activity
+### Activity
 
   * Prepare the proofing basket or bowl:
     * Choose one of these options:
@@ -205,79 +206,69 @@ This is called a fold:
       * Slightly risky mode: Place teatowel in a bowl and use plenty of flour to make the teatowel non-stick
       * Easy mode: In a bowl or proofing basket shape your baking paper so the loaf will rise in a circular shape on the middle of the baking paper. The baking paper should be of sufficient length and positioned so you can hold the ends of the baking paper to carry your fully-proofed loaf in a baking paper sling to the surface it will be baked on.
 
-Place the dough gently in the proofing basket or bowl. Drape the dry tea towel to cover.
+  * [Dust the loaf with flour or semolina](https://twitter.com/SeamusBlackley/status/1135360486419996672?s=20)
+    * In a different large bowl, or by sprinkling over the loaf, coat your loaf in a light dusting of loose flour
 
-## Step 15: Wait until the dough doubles in volume.
+  * Place the dusted dough gently in the proofing basket or bowl. 
+  * [Drape the dry tea towel or waxed paper to cover](https://twitter.com/SeamusBlackley/status/1135361685089210368?s=20).
 
-### Step 15 Activity
+## Step 14: Wait until the dough doubles in volume.
 
-Set a timer for an hour. Check how the dough is going. Set another timer. Some days and some flours might need hours. 
+## Step 15: Prep the oven (1:30PM)
 
-## Step 16: Prep the oven (1:30PM)
+  * Get your oven to 240-260C (465-500F). If you are baking in a dutch oven then warm the oven with the dutch oven already inside.
+  * When the thermostat tells you it's at the right temperature wait another 10-15 mins.
 
-  * Get your oven to 240-260C. If you are baking in a dutch oven then warm the oven with the dutch over   * inside.
-  * When the thermostat tells you it's at the et temperature wait another 10-15 mins.
+## Step 16: Turn out the dough and score the top of the loaf (2:15PM)
 
-## Step 17: Turn out the dough and score the top of the loaf (2:15PM)
+This is getting your loaf ready to _easily_ put in the oven for baking. You are choosing a surface that will help you gently get the dough into the oven and preserve the shape of your loaf.
 
-This is getting your loaf ready to put in the oven for baking. You are choosing a surface that will help you get your bread into the oven easily that doesn't mess up the shape of your loaf or make it hard to get out of the oven. 
-
-### Step 17 Equipment
+### Equipment
 
   * If you have proofed your loaf on baking paper you do not need more baking paper
   * A very sharp knife like a (sterile) razor or a thin paper cutting or Stanley knife
   * Either: 
     * A length of baking paper that is long enough for you to carry your loaf in a sling to put in your dutch oven, or
     * A baking tray with baking paper lining it, or
-    * A baking tray with a layer of semolina
+    * [A baking tray with a layer of semolina](https://twitter.com/SeamusBlackley/status/1135392534820077570?s=20)
 
-### Step 17 Activity
+### Activity
 
   * Carefully turn out your loaf onto your pre-baking surface of choice (if necessary)
-  * Use the knife to score the surface. Try to make sure the cuts will open in a way that lets the loaf expand without cracking.
+  * [Use the knife to score the surface of your loaf. Try to make sure the cuts will open in a way that lets the loaf expand without cracking](https://twitter.com/SeamusBlackley/status/1135394087094312962?s=20).
 
-## Step 18: Initial Baking (2:30PM)
+## Step 17: Initial Baking (2:30PM)
 
-### Step 18 Equipment
+### Equipment
 
   * If you are baking in an open oven and not a dutch over, you will need an oven-proof tray to throw a few ice cubes in or some cold water.
 
-### Step 18 Activity
+### Activity
 
   * (If required) Place the ice cubes in a tray the oven. Do not put the tray immediately underneath where   * the loaf will bake or the steam will cool the botton of your loaf and you'll have an undercooked base.
-  * Move your loaf into the ~250C oven. Set a 10 minute timer. The oven will remain at 250C for 10 minutes,   * then we'll turn it down to 220-230C
+  * Move your loaf into the ~250C (480F) oven. Set a 10 minute timer. The oven will remain at 250C for 10 minutes, then we'll turn it down to 220-230C (430-445F)
   * Do not open the oven until the loaf is fully baked.
 
-## Step 19: Turn the oven down to 220C (2:40PM)
+## Step 18: Turn the oven down to 220C (430F) (2:40PM)
 
-### Step 19 Activity
+### Activity
 
-  * After 10 minutes at 250C turn the oven down to 220C.
+  * After 10 minutes at 250C (480F) turn the oven down to 220C (430F).
   * Set a timer for 25 minutes.
   * Do not open the oven until the 25 minutes has passed.
 
-## Step 20: Move the loaf from the oven to a cooling rack (3:05PM)
+## Step 19: Move the loaf from the oven to a cooling rack (3:05PM)
 
-### Step 20 Equipment
+### Equipment
 
   * A cooling rack
 
-### Step 20 Activity
+### Activity
 
   * Turn off the oven
   * Move the loaf from the oven to the cooling rack
-  * Set a timer for 30 minutes. Do not cut the loaf before this timer goes off.
+  * Set a timer for 30 minutes. *Do not cut the loaf before this timer goes off*.
 
-## Step 21: Photograph and Consume Bread (3:35PM)
-
-
-
-
-
-
-
-
-
-
+## Step 20: [Photograph and Consume Bread](https://twitter.com/SeamusBlackley/status/1135402087980789762?s=20) (3:35PM)
 
 
