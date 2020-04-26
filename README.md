@@ -168,6 +168,7 @@ The dough should be ["a bit tacky, but not sticky."](https://twitter.com/SeamusB
 This is a [fold](https://twitter.com/SeamusBlackley/status/1135343570645184512?s=20):
 
   * Pick up the dough ball in your "off" hand and gently pinch one edge with your primary hand
+
   * Pull the edge out and up over the dough ball in your hand
   * Fold the dough ball 4 to 8 times total, rotating a little each time
   * Turn the folded side down and form your dough back into a ball
@@ -256,11 +257,13 @@ This is getting your loaf ready to _easily_ put in the oven for baking. You are 
   * Set a timer for 25 minutes
   * Do not open the oven until the 25 minutes has passed
 
+
 ## Step 19: Move the loaf from the oven to a cooling rack (3:05PM)
 
 ### Activity
 
   * Turn off the oven
+
   * Move the loaf from the oven to your cooling rack
   * Set a timer for 30 minutes. *Do not cut the loaf before this timer goes off*
 
