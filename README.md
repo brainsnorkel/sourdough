@@ -260,7 +260,6 @@ This is getting your loaf ready to _easily_ put in the oven for baking. You are 
   * Set a timer for 25 minutes
   * Do not open the oven until the 25 minutes has passed
 
-
 ## Step 20: Move the loaf from the oven to a cooling rack (3:05PM)
 
 ### Activity
