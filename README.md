@@ -48,7 +48,7 @@ Thank you Seamus Blackley ([@SeamusBlackley](https://twitter.com/SeamusBlackley)
   - [Activity](#activity-7)
 - [Step 20: Move the loaf from the oven to a cooling rack \(3:05PM\)](#step-20-move-the-loaf-from-the-oven-to-a-cooling-rack-305pm)
   - [Activity](#activity-8)
-- [Step 21: Photograph and Consume Bread \(3:35PM\)](#step-21-photograph-and-consume-bread-335pm)
+- [Step 21: Photograph and consume bread \(3:35PM\)](#step-21-photograph-and-consume-bread-335pm)
 
 <!-- /MarkdownTOC -->
 
@@ -56,7 +56,7 @@ Thank you Seamus Blackley ([@SeamusBlackley](https://twitter.com/SeamusBlackley)
 
 This recipe is intended to be text-only, and easy to follow. While there are no pictures, there are links to clarifying source material and videos.
 
-Assumign you've made bread before equipment like spoons, small bowls & jars, baking paper are not always listed ahead of each step. 
+Assuming you've made bread before equipment like spoons, small bowls & jars, baking paper are not always listed ahead of each step. 
 
 The wall clock times are very rough guides to give you some idea of how this could fit into your day. The conceit of this recipe is that your bake starts 10pm the night before. You awake before 8AM for a bit of mixing and folding, and you're eating warm fresh bread at 3:35PM.
 
@@ -121,7 +121,7 @@ In a _big_ bowl:
 
   * Add 250ml (1 cup) water
   * Splash ~25ml (1.5Tbsp) of olive oil
-  * Add all of your bangin starter from step 1 ([should float with all that bubble](https://twitter.com/SeamusBlackley/status/1135319551812329472?s=20))
+  * Add all of your bangin' starter from step 1 ([should float with all that bubble](https://twitter.com/SeamusBlackley/status/1135319551812329472?s=20))
   * Stir in 100g (3.5oz) of your 500g (1.1lb) of flour and stir to a paste with as much aeration as you can manage, then [thoroughly incorporate the remaining 400g (0.9lb) of your flour](https://twitter.com/SeamusBlackley/status/1135322614828740608?s=20) with a [spoon or hands](https://twitter.com/SeamusBlackley/status/1135323253348507650?s=20).
 
 The dough should now be a ball that's a bit crumbly looking and [not wet or too sticky](https://twitter.com/SeamusBlackley/status/1135323778886524930?s=20). Add a little more water or flour if needed and incorporate thoroughly with a bit of kneading in the bowl.  
@@ -187,20 +187,20 @@ This is a [fold](https://twitter.com/SeamusBlackley/status/1135343570645184512?s
 
 ### Ingredients
 
-  * Enough flour to line a teatowel or proofing basket
+  * Enough flour to line a tea towel or proofing basket
   * A small amount of semolina or dusting flour
 
 ### Equipment
 
-  * Proofing basket or bowl and tight-weave teatowel
-  * A dry teatowel or waxed paper to cover the loaf as it proofs
+  * Proofing basket or bowl and tight-weave tea towel
+  * A dry tea towel or waxed paper to cover the loaf as it proofs
 
 ### Activity
 
   * Prepare the proofing basket or bowl:
     * Choose one of these options:
       * Pretty easy mode: Flour your proofing basket with enough flour to make it non-stick
-      * Slightly risky mode: Place teatowel in a bowl and use plenty of flour to make the teatowel non-stick
+      * Slightly risky mode: Place tea towel in a bowl and use plenty of flour to make the tea towel non-stick
       * [Easy mode](https://twitter.com/csmagor/status/1253475454180143104?s=20): In a bowl or proofing basket shape your baking paper so the loaf will [rise in a circular shape on the middle of the baking paper](https://twitter.com/csmagor/status/1253473940271316994?s=20). The baking paper should be of sufficient length and positioned so you can hold the ends of the baking paper to carry your fully-proofed loaf in a baking paper sling to the surface it will be baked on.
 
   * [Dust the loaf with flour or semolina](https://twitter.com/SeamusBlackley/status/1135360486419996672?s=20)
@@ -214,7 +214,7 @@ This is a [fold](https://twitter.com/SeamusBlackley/status/1135343570645184512?s
 ## Step 16: Prep the oven (1:30PM)
 
   * Get your oven to 240-260C (465-500F). If you are baking in a dutch oven then warm the oven with the dutch oven already inside.
-  * When the thermostat tells you it's at the right temperature wait another 10-15 mins.
+  * When the thermostat tells you it's at the right temperature wait another 10-15 minutes.
 
 ## Step 17: Turn out the dough and score the top of the loaf (2:15PM)
 
@@ -242,7 +242,7 @@ This is getting your loaf ready to _easily_ put in the oven for baking. You are 
 
 ### Activity
 
-  * (If required) Place the ice cubes in a tray the oven. Do not put the tray immediately underneath where the loaf will bake or the steam will cool the botton of your loaf and you'll have an undercooked base.
+  * (If required) Place the ice cubes in a tray the oven. Do not put the tray immediately underneath where the loaf will bake or the steam will cool the bottom of your loaf and you'll have an undercooked base.
   * Move your loaf into the ~250C (480F) oven. Set a 10 minute timer. The oven will remain at 250C for 10 minutes, then we'll turn it down to 220-230C (430-445F)
   * Do not open the oven until the loaf is fully baked.
 
@@ -262,6 +262,6 @@ This is getting your loaf ready to _easily_ put in the oven for baking. You are 
   * Move the loaf from the oven to your cooling rack
   * Set a timer for 30 minutes. *Do not cut the loaf before this timer goes off*
 
-## Step 21: [Photograph and Consume Bread](https://twitter.com/SeamusBlackley/status/1135402087980789762?s=20) (3:35PM)
+## Step 21: [Photograph and consume bread](https://twitter.com/SeamusBlackley/status/1135402087980789762?s=20) (3:35PM)
 
 
