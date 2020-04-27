@@ -20,7 +20,7 @@ Thank you Seamus Blackley ([@SeamusBlackley](https://twitter.com/SeamusBlackley)
   - [Activity](#activity-1)
 - [Step 4: Wait 30 minutes \(8:30am\)](#step-4-wait-30-minutes-830am)
 - [Step 5: Incorporate salt \(9am\)](#step-5-incorporate-salt-9am)
-  - [Ingredients:](#ingredients-2)
+  - [Ingredients](#ingredients-2)
   - [Activity](#activity-2)
 - [Step 6: Wait 30 minutes](#step-6-wait-30-minutes)
 - [Step 7: Folding #1 \(10am\)](#step-7-folding-1-10am)
@@ -44,7 +44,7 @@ Thank you Seamus Blackley ([@SeamusBlackley](https://twitter.com/SeamusBlackley)
 - [Step 18: Initial Baking \(2:30PM\)](#step-18-initial-baking-230pm)
   - [Equipment](#equipment-3)
   - [Activity](#activity-6)
-- [Step 19: Turn the oven down to 220C \(430F\) \(2:40PM\)](#step-19-turn-the-oven-down-to-220c-430f-240pm)
+- [Step 19: Further Baking at 220C \(430F\) \(2:40PM\)](#step-19-further-baking-at-220c-430f-240pm)
   - [Activity](#activity-7)
 - [Step 20: Move the loaf from the oven to a cooling rack \(3:05PM\)](#step-20-move-the-loaf-from-the-oven-to-a-cooling-rack-305pm)
   - [Activity](#activity-8)
@@ -124,7 +124,7 @@ In a _big_ bowl:
   * Add all of your bangin' starter from step 1 ([should float with all that bubble](https://twitter.com/SeamusBlackley/status/1135319551812329472?s=20))
   * Stir in 100g (3.5oz) of your 500g (1.1lb) of flour and stir to a paste with as much aeration as you can manage, then [thoroughly incorporate the remaining 400g (0.9lb) of your flour](https://twitter.com/SeamusBlackley/status/1135322614828740608?s=20) with a [spoon or hands](https://twitter.com/SeamusBlackley/status/1135323253348507650?s=20).
 
-The dough should now be a ball that's a bit crumbly looking and [not wet or too sticky](https://twitter.com/SeamusBlackley/status/1135323778886524930?s=20). Add a little more water or flour if needed and incorporate thoroughly with a bit of kneading in the bowl.  
+The dough should now be a ball that's a bit crumbly looking and [not wet or too sticky](https://twitter.com/SeamusBlackley/status/1135323778886524930?s=20). Add a little more water or flour if needed and incorporate thoroughly by kneading the dough in the bowl.  
 
 Add a little extra oil to the bowl if you're worried about sticking or transfer to another big bowl that has [enough olive oil to give the inside a sheen](https://twitter.com/SeamusBlackley/status/1135325743607508992?s=20).
 
@@ -134,7 +134,7 @@ Add a little extra oil to the bowl if you're worried about sticking or transfer 
 
 ## Step 5: Incorporate salt (9am)
 
-### Ingredients:
+### Ingredients
 
   * 10g (1tsp) salt
   * Some dusting flour
@@ -148,7 +148,7 @@ Add a little extra oil to the bowl if you're worried about sticking or transfer 
   * [Slowly roll the dough into a cigar (still in the bowl)](https://twitter.com/SeamusBlackley/status/1135336356039708672?s=20)
   * Fold the cigar in half and then press the dough out into a pancake again.
   * Use fingers to make lots of craters all over the dough pancake's top.
-  * Sprinkle what remains of your salt evenly into the craters in the dough.
+  * Sprinkle the remains of your salt evenly into the craters in the dough.
   * [Roll the dough into a cigar (still in the bowl)](https://twitter.com/SeamusBlackley/status/1135336969418887169?s=20)
   * [Knead the dough until it stiffens slightly](https://twitter.com/SeamusBlackley/status/1135338079227588608?s=20)
   * Shape the dough back into a smooth ball and place back in bowl with a cover. 
@@ -161,13 +161,13 @@ The dough should be ["a bit tacky, but not sticky."](https://twitter.com/SeamusB
 
 ### Activity
 
-This is a [fold](https://twitter.com/SeamusBlackley/status/1135343570645184512?s=20):
+This is a [fold](https://twitter.com/SeamusBlackley/status/1135343570645184512?s=20) technique that we will repeat in the next few steps:
 
-  * Pick up the dough ball in your "off" hand and gently pinch one edge with your primary hand
-  * Pull the edge out and up over the dough ball in your hand
-  * Fold the dough ball 4 to 8 times total, rotating a little each time
-  * Turn the folded side down and form your dough back into a ball
-  * Place the dough back in the bowl
+  * Pick up the dough ball with your "off" hand and gently pinch one edge with your primary hand
+  * Pull the edge out and up over the top of dough ball and press it into the ball
+  * Fold the dough ball 4 to 8 times total, rotating a little each time 
+  * Turn the folded side of your dough down and form it back into a ball
+  * Place your dough back in the bowl
 
 ## Step 8: Wait 30 minutes 
 
@@ -188,7 +188,7 @@ This is a [fold](https://twitter.com/SeamusBlackley/status/1135343570645184512?s
 ### Ingredients
 
   * Enough flour to line a tea towel or proofing basket
-  * A small amount of semolina or dusting flour
+  * A small amount of dusting flour
 
 ### Equipment
 
@@ -203,7 +203,7 @@ This is a [fold](https://twitter.com/SeamusBlackley/status/1135343570645184512?s
       * Slightly risky mode: Place tea towel in a bowl and use plenty of flour to make the tea towel non-stick
       * [Easy mode](https://twitter.com/csmagor/status/1253475454180143104?s=20): In a bowl or proofing basket shape your baking paper so the loaf will [rise in a circular shape on the middle of the baking paper](https://twitter.com/csmagor/status/1253473940271316994?s=20). The baking paper should be of sufficient length and positioned so you can hold the ends of the baking paper to carry your fully-proofed loaf in a baking paper sling to the surface it will be baked on.
 
-  * [Dust the loaf with flour or semolina](https://twitter.com/SeamusBlackley/status/1135360486419996672?s=20)
+  * [Dust the loaf with flour](https://twitter.com/SeamusBlackley/status/1135360486419996672?s=20)
     * In a different large bowl, or by sprinkling over the loaf in the main bowl, coat your loaf all over in a light dusting of loose flour
 
   * Place the dusted dough gently in the proofing basket or bowl. 
@@ -227,7 +227,7 @@ This is getting your loaf ready to _easily_ put in the oven for baking. You are 
   * Either: 
     * A length of baking paper that is long enough for you to carry your loaf in a sling to put in your dutch oven, *or*
     * A baking tray with baking paper lining it, *or*
-    * [A baking tray with a layer of semolina](https://twitter.com/SeamusBlackley/status/1135392534820077570?s=20)
+    * [A baking tray with a layer of semolina](https://twitter.com/SeamusBlackley/status/1135392534820077570?s=20) (enough to help prevent the loaf's bottom from sticking during baking)
 
 ### Activity
 
@@ -238,15 +238,15 @@ This is getting your loaf ready to _easily_ put in the oven for baking. You are 
 
 ### Equipment
 
-  * If you are baking in an open oven and not a dutch over, you will need an oven-proof tray to throw a few ice cubes in or some cold water.
+  * If you are baking in an open oven and not using a dutch oven, you will need an oven-proof tray to throw a few ice cubes in or some cold water to help develop a good crust.
 
 ### Activity
 
-  * (If required) Place the ice cubes in a tray the oven. Do not put the tray immediately underneath where the loaf will bake or the steam will cool the bottom of your loaf and you'll have an undercooked base.
+  * (If required) Place the ice cubes in a tray the oven. Do not put the tray immediately underneath where the loaf will bake or the steam will cool the bottom of your loaf and the base may undercook.
   * Move your loaf into the ~250C (480F) oven. Set a 10 minute timer. The oven will remain at 250C for 10 minutes, then we'll turn it down to 220-230C (430-445F)
-  * Do not open the oven until the loaf is fully baked.
+  * *Do not* open the oven again until the baking steps are complete
 
-## Step 19: Turn the oven down to 220C (430F) (2:40PM)
+## Step 19: Further Baking at 220C (430F) (2:40PM)
 
 ### Activity
 
