@@ -14,53 +14,53 @@ Thank you Seamus Blackley ([@SeamusBlackley](https://twitter.com/SeamusBlackley)
   - [Ingredients](#ingredients)
   - [Activity](#activity)
 - [Step 2: Wait until the starter from step 1 is "very active"](#step-2-wait-until-the-starter-from-step-1-is-very-active)
-- [Step 3: Make Dough \(8am\)](#step-3-make-dough-8am)
+- [Step 3: Make Dough \(8AM\)](#step-3-make-dough-8am)
   - [Ingredients](#ingredients-1)
   - [Equipment](#equipment)
   - [Activity](#activity-1)
-- [Step 4: Wait 30 minutes \(8:30am\)](#step-4-wait-30-minutes-830am)
-- [Step 5: Incorporate salt \(9am\)](#step-5-incorporate-salt-9am)
+- [Step 4: Wait 30 minutes \(8:30AM\)](#step-4-wait-30-minutes-830am)
+- [Step 5: Incorporate salt \(9AM\)](#step-5-incorporate-salt-9am)
   - [Ingredients](#ingredients-2)
   - [Activity](#activity-2)
 - [Step 6: Wait 30 minutes](#step-6-wait-30-minutes)
-- [Step 7: Folding #1 \(10am\)](#step-7-folding-1-10am)
+- [Step 7: Folding #1 \(9:30AM\)](#step-7-folding-1-930am)
   - [Activity](#activity-3)
 - [Step 8: Wait 30 minutes](#step-8-wait-30-minutes)
-- [Step 8: Folding #2 \(10:30am\)](#step-8-folding-2-1030am)
+- [Step 8: Folding #2 \(10:00AM\)](#step-8-folding-2-1000am)
 - [Step 9: Wait 30 minutes](#step-9-wait-30-minutes)
-- [Step 10: Folding #3 \(11am\)](#step-10-folding-3-11am)
+- [Step 10: Folding #3 \(10:30AM\)](#step-10-folding-3-1030am)
 - [Step 11: Wait 30 minutes](#step-11-wait-30-minutes)
-- [Step 12: Folding #4 \(11:30am\)](#step-12-folding-4-1130am)
+- [Step 12: Folding #4 \(11:00AM\)](#step-12-folding-4-1100am)
 - [Step 13: Wait 30 minutes](#step-13-wait-30-minutes)
-- [Step 14: Proofing \(12:00pm\)](#step-14-proofing-1200pm)
+- [Step 14: Proofing \(11:30AM\)](#step-14-proofing-1130am)
   - [Ingredients](#ingredients-3)
   - [Equipment](#equipment-1)
   - [Activity](#activity-4)
 - [Step 15: Wait until the dough doubles in volume.](#step-15-wait-until-the-dough-doubles-in-volume)
-- [Step 16: Prep the oven \(1:30PM\)](#step-16-prep-the-oven-130pm)
-- [Step 17: Turn out the dough and score the top of the loaf \(2:15PM\)](#step-17-turn-out-the-dough-and-score-the-top-of-the-loaf-215pm)
+- [Step 16: Prep the oven \(1:00PM\)](#step-16-prep-the-oven-100pm)
+- [Step 17: Turn out the dough and score the top of the loaf \(1:25PM\)](#step-17-turn-out-the-dough-and-score-the-top-of-the-loaf-125pm)
   - [Equipment](#equipment-2)
   - [Activity](#activity-5)
-- [Step 18: Initial Baking \(2:30PM\)](#step-18-initial-baking-230pm)
+- [Step 18: Initial Baking \(1:30PM\)](#step-18-initial-baking-130pm)
   - [Equipment](#equipment-3)
   - [Activity](#activity-6)
-- [Step 19: Further Baking at 220C \(430F\) \(2:40PM\)](#step-19-further-baking-at-220c-430f-240pm)
+- [Step 19: Further Baking at 220C \(430F\) \(1:40PM\)](#step-19-further-baking-at-220c-430f-140pm)
   - [Activity](#activity-7)
-- [Step 20: Move the loaf from the oven to a cooling rack \(3:05PM\)](#step-20-move-the-loaf-from-the-oven-to-a-cooling-rack-305pm)
+- [Step 20: Move the loaf from the oven to a cooling rack \(2:05PM\)](#step-20-move-the-loaf-from-the-oven-to-a-cooling-rack-205pm)
   - [Activity](#activity-8)
-- [Step 21: Photograph and consume bread \(3:35PM\)](#step-21-photograph-and-consume-bread-335pm)
+- [Step 21: Photograph and consume bread \(2:35PM\)](#step-21-photograph-and-consume-bread-235pm)
 
 <!-- /MarkdownTOC -->
 
 ## Introduction
 
-This recipe is intended to be text-only, and easy to follow. While there are no pictures, there are links to clarifying source material and videos.
+This recipe is intended to be text-only, and easy to follow. While there are no pictures, there are links to clarifying source material and videos. 
 
 Assuming you've made bread before equipment like spoons, small bowls & jars, baking paper are not always listed ahead of each step. 
 
-The wall clock times are very rough guides to give you some idea of how this could fit into your day. The conceit of this recipe is that your bake starts 10pm the night before. You awake before 8AM for a bit of mixing and folding, and you're eating warm fresh bread at 3:35PM.
+The wall clock times on some steps are very rough guides to guide how this process might fit into your day. The conceit of this recipe is that your bake starts 10PM the night before. You awake before 8AM for a bit of mixing and folding, and you're eating warm fresh bread at 2:35PM.
 
-Your flour, water, temperature, oven and yeast are going to be different than those used for this recipe so please adapt to your own conditions. 
+Your flour, water, temperature, oven and yeast are going to be different than those used for this recipe so you will need to adapt to your own conditions. 
 
 Feel free to raise issues and send suggestions at https://github.com/brainsnorkel/sourdough or [@crgentle](https://twitter.com/crgentle)
 
@@ -70,7 +70,7 @@ Feel free to raise issues and send suggestions at https://github.com/brainsnorke
 
   * 20g (1Tbsp) of your [favourite](https://twitter.com/shoelaces3/status/1244252079041974272?s=21) [starter](https://twitter.com/SeamusBlackley/status/1140945355992965121?s=20)
   * 80-90g (3oz) flour
-  * Enough water to make the starter the consistency of a thick shake
+  * Enough water to make the starter the consistency of a thickshake
 
 ### Dough
 
@@ -101,7 +101,7 @@ On a cool day this might take 6-8 hours. If the starter is in a cool place then 
 
 ## Step 2: Wait until the starter from step 1 is "very active" 
 
-## Step 3: Make Dough (8am)
+## Step 3: Make Dough (8AM)
 
 ### Ingredients
 
@@ -130,9 +130,9 @@ Add a little extra oil to the bowl if you're worried about sticking or transfer 
 
 [Put an insulating lid or cover on top of the bowl](https://twitter.com/SeamusBlackley/status/1135327738259107840?s=20). 
 
-## Step 4: Wait 30 minutes (8:30am)
+## Step 4: Wait 30 minutes (8:30AM)
 
-## Step 5: Incorporate salt (9am)
+## Step 5: Incorporate salt (9AM)
 
 ### Ingredients
 
@@ -157,33 +157,35 @@ The dough should be ["a bit tacky, but not sticky."](https://twitter.com/SeamusB
 
 ## Step 6: Wait 30 minutes
 
-## Step 7: Folding #1 (10am)
+## Step 7: Folding #1 (9:30AM)
 
 ### Activity
 
 This is a [fold](https://twitter.com/SeamusBlackley/status/1135343570645184512?s=20) technique that we will repeat in the next few steps:
 
-  * Pick up the dough ball with your "off" hand and gently pinch one edge with your primary hand
+  * Pick up the dough ball with your "off" hand or rest the dough on a flour-dusted surface and gently pinch one edge with your primary hand
   * Pull the edge out and up over the top of dough ball and press it into the ball
   * Fold the dough ball 4 to 8 times total, rotating a little each time 
   * Turn the folded side of your dough down and form it back into a ball
   * Place your dough back in the bowl
 
+See also [here](https://youtu.be/9O1mmqEr0rI)
+
 ## Step 8: Wait 30 minutes 
 
-## Step 8: Folding #2 (10:30am)
+## Step 8: Folding #2 (10:00AM)
 
 ## Step 9: Wait 30 minutes 
 
-## Step 10: Folding #3 (11am)
+## Step 10: Folding #3 (10:30AM)
 
 ## Step 11: Wait 30 minutes
 
-## Step 12: Folding #4 (11:30am)
+## Step 12: Folding #4 (11:00AM)
 
 ## Step 13: Wait 30 minutes
 
-## Step 14: Proofing (12:00pm)
+## Step 14: Proofing (11:30AM)
 
 ### Ingredients
 
@@ -211,12 +213,12 @@ This is a [fold](https://twitter.com/SeamusBlackley/status/1135343570645184512?s
 
 ## Step 15: Wait until the dough doubles in volume.
 
-## Step 16: Prep the oven (1:30PM)
+## Step 16: Prep the oven (1:00PM)
 
   * Get your oven to 240-260C (465-500F). If you are baking in a dutch oven then warm the oven with the dutch oven already inside.
   * When the thermostat tells you it's at the right temperature wait another 10-15 minutes.
 
-## Step 17: Turn out the dough and score the top of the loaf (2:15PM)
+## Step 17: Turn out the dough and score the top of the loaf (1:25PM)
 
 This is getting your loaf ready to _easily_ put in the oven for baking. You are choosing a surface that will help you gently get the dough into the oven and preserve the shape of your loaf.
 
@@ -234,7 +236,7 @@ This is getting your loaf ready to _easily_ put in the oven for baking. You are 
   * Carefully turn out your loaf onto your pre-baking surface of choice (if necessary)
   * [Use the knife to score the surface of your loaf. Try to make sure the cuts will open in a way that lets the loaf expand without cracking](https://twitter.com/SeamusBlackley/status/1135394087094312962?s=20).
 
-## Step 18: Initial Baking (2:30PM)
+## Step 18: Initial Baking (1:30PM)
 
 ### Equipment
 
@@ -246,7 +248,7 @@ This is getting your loaf ready to _easily_ put in the oven for baking. You are 
   * Move your loaf into the ~250C (480F) oven. Set a 10 minute timer. The oven will remain at 250C for 10 minutes, then we'll turn it down to 220-230C (430-445F)
   * *Do not* open the oven again until the baking steps are complete
 
-## Step 19: Further Baking at 220C (430F) (2:40PM)
+## Step 19: Further Baking at 220C (430F) (1:40PM)
 
 ### Activity
 
@@ -254,7 +256,7 @@ This is getting your loaf ready to _easily_ put in the oven for baking. You are 
   * Set a timer for 25 minutes
   * Do not open the oven until the 25 minutes has passed
 
-## Step 20: Move the loaf from the oven to a cooling rack (3:05PM)
+## Step 20: Move the loaf from the oven to a cooling rack (2:05PM)
 
 ### Activity
 
@@ -262,6 +264,6 @@ This is getting your loaf ready to _easily_ put in the oven for baking. You are 
   * Move the loaf from the oven to your cooling rack
   * Set a timer for 30 minutes. *Do not cut the loaf before this timer goes off*
 
-## Step 21: [Photograph and consume bread](https://twitter.com/SeamusBlackley/status/1135402087980789762?s=20) (3:35PM)
+## Step 21: [Photograph and consume bread](https://twitter.com/SeamusBlackley/status/1135402087980789762?s=20) (2:35PM)
 
 
