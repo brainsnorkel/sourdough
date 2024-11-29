@@ -1,6 +1,6 @@
 # Concise Sourdough
 
-Thank you Seamus Blackley ([@SeamusBlackley](https://twitter.com/SeamusBlackley)) for the [original recipe](https://twitter.com/SeamusBlackley/status/1135281239634485249?s=20) ([@ThreadReader version of the recipe thread](https://threadreaderapp.com/thread/1135281239634485249.html)). 
+Thank you Seamus Blackley ([@SeamusBlackley](https://xcancel.com/SeamusBlackley)) for the [original recipe](https://xcancel.com/SeamusBlackley/status/1135281239634485249?s=20) ([@ThreadReader version of the recipe thread](https://threadreaderapp.com/thread/1135281239634485249.html)). 
 
 ## Table of Contents  
 
@@ -62,13 +62,13 @@ The wall clock times on some steps are very rough guides for how the process of 
 
 Your flour, water, room temperature, oven and yeast are going to be different than those used for this recipe so make sure you adapt to your own conditions. 
 
-Feel free to raise issues and send suggestions at https://github.com/brainsnorkel/sourdough or [@crgentle](https://twitter.com/crgentle)
+Feel free to raise issues and send suggestions to [me at BlueSky](https://bsky.app/profile/xop.co)
 
 ## Main Ingredients List
 
 ### Bangin' Starter
 
-  * 20g (1Tbsp) of your [favourite](https://twitter.com/shoelaces3/status/1244252079041974272?s=21) [starter](https://twitter.com/SeamusBlackley/status/1140945355992965121?s=20)
+  * 20g (1Tbsp) of your [favourite](https://xcancel.com/shoelaces3/status/1244252079041974272?s=21) [starter](https://xcancel.com/SeamusBlackley/status/1140945355992965121?s=20)
   * 80-90g (3oz) flour
   * Enough water to make the starter the consistency of a thickshake (120ml (1/2 cup) more or less)
 
@@ -93,9 +93,9 @@ In a small bowl or jar:
 
   * Add 80-90g (3oz) of flour
   * Add 20g (1Tbsp) of your sourdough starter
-  * Stir in enough water to bring the starter mix to the [consistency of a thickshake](https://twitter.com/SeamusBlackley/status/1135288160823328768?s=20).
+  * Stir in enough water to bring the starter mix to the [consistency of a thickshake](https://xcancel.com/SeamusBlackley/status/1135288160823328768?s=20).
 
-Cover and keep warm until "very active." Very active is when the bubbles [push up the top of your starter mix to become "3D."](https://twitter.com/SeamusBlackley/status/1135318460265746434?s=20)
+Cover and keep warm until "very active." Very active is when the bubbles [push up the top of your starter mix to become "3D."](https://xcancel.com/SeamusBlackley/status/1135318460265746434?s=20)
 
 On a cool day this might take 6-8 hours. If the starter is in a cool place then consider starting your very active starter last thing before bed.
 
@@ -121,14 +121,14 @@ In a _big_ bowl:
 
   * Add 250ml (1 cup) water
   * Splash ~25ml (1.5Tbsp) of olive oil
-  * Add all of your bangin' starter from step 1 ([It should float with all the CO2 it contains](https://twitter.com/SeamusBlackley/status/1135319551812329472?s=20))
-  * Add 100g (3.5oz) of your 500g (1.1lb) of flour and stir to a paste with as much aeration as you can manage, then [thoroughly incorporate the remaining 400g (0.9lb) of your flour](https://twitter.com/SeamusBlackley/status/1135322614828740608?s=20) with a [spoon or hands](https://twitter.com/SeamusBlackley/status/1135323253348507650?s=20)
+  * Add all of your bangin' starter from step 1 ([It should float with all the CO2 it contains](https://xcancel.com/SeamusBlackley/status/1135319551812329472?s=20))
+  * Add 100g (3.5oz) of your 500g (1.1lb) of flour and stir to a paste with as much aeration as you can manage, then [thoroughly incorporate the remaining 400g (0.9lb) of your flour](https://xcancel.com/SeamusBlackley/status/1135322614828740608?s=20) with a [spoon or hands](https://xcancel.com/SeamusBlackley/status/1135323253348507650?s=20)
 
-The dough should now be a ball that's a bit crumbly looking and [not wet or too sticky](https://twitter.com/SeamusBlackley/status/1135323778886524930?s=20). Add a little more water or flour if needed and incorporate thoroughly by kneading the dough in the bowl.  
+The dough should now be a ball that's a bit crumbly looking and [not wet or too sticky](https://xcancel.com/SeamusBlackley/status/1135323778886524930?s=20). Add a little more water or flour if needed and incorporate thoroughly by kneading the dough in the bowl.  
 
-Add a little extra oil to the bowl if you're worried about sticking or transfer to another big bowl that has [enough olive oil to give the inside a sheen](https://twitter.com/SeamusBlackley/status/1135325743607508992?s=20).
+Add a little extra oil to the bowl if you're worried about sticking or transfer to another big bowl that has [enough olive oil to give the inside a sheen](https://xcancel.com/SeamusBlackley/status/1135325743607508992?s=20).
 
-[Put an insulating lid or cover on top of the bowl](https://twitter.com/SeamusBlackley/status/1135327738259107840?s=20). 
+[Put an insulating lid or cover on top of the bowl](https://xcancel.com/SeamusBlackley/status/1135327738259107840?s=20). 
 
 ## Step 4: Wait 30 minutes (8:30AM)
 
@@ -141,19 +141,19 @@ Add a little extra oil to the bowl if you're worried about sticking or transfer 
 
 ### Activity
 
-  * [Add some dusting flour to be bottom of your bowl](https://twitter.com/SeamusBlackley/status/1135328857660305408?s=20)
-  * [Flatten the dough in the bowl into as much of a pancake as you can.](https://twitter.com/SeamusBlackley/status/1135335652210253826?s=20)
+  * [Add some dusting flour to be bottom of your bowl](https://xcancel.com/SeamusBlackley/status/1135328857660305408?s=20)
+  * [Flatten the dough in the bowl into as much of a pancake as you can.](https://xcancel.com/SeamusBlackley/status/1135335652210253826?s=20)
   * Use your fingers to make lots of craters all over the dough pancake's top
   * Sprinkle 5g (0.5tsp) or your 10g (1tsp) salt evenly into the craters in the dough
-  * [Slowly roll the dough into a cigar shape](https://twitter.com/SeamusBlackley/status/1135336356039708672?s=20)  (still in the bowl)
+  * [Slowly roll the dough into a cigar shape](https://xcancel.com/SeamusBlackley/status/1135336356039708672?s=20)  (still in the bowl)
   * Fold the cigar shape in half and then press the dough out into a pancake again.
   * Use fingers to make lots of craters all over the dough pancake's top
   * Sprinkle the rest of the salt evenly into the craters in the dough
-  * [Roll the dough into a cigar (still in the bowl)](https://twitter.com/SeamusBlackley/status/1135336969418887169?s=20)
-  * [Knead the dough until it stiffens slightly](https://twitter.com/SeamusBlackley/status/1135338079227588608?s=20)
+  * [Roll the dough into a cigar (still in the bowl)](https://xcancel.com/SeamusBlackley/status/1135336969418887169?s=20)
+  * [Knead the dough until it stiffens slightly](https://xcancel.com/SeamusBlackley/status/1135338079227588608?s=20)
   * Shape the dough back into a smooth ball and place back in bowl with a cover
 
-The dough should be ["a bit tacky, but not sticky."](https://twitter.com/SeamusBlackley/status/1135338844520214528?s=20) 
+The dough should be ["a bit tacky, but not sticky."](https://xcancel.com/SeamusBlackley/status/1135338844520214528?s=20) 
 
 ## Step 6: Wait 30 minutes
 
@@ -161,7 +161,7 @@ The dough should be ["a bit tacky, but not sticky."](https://twitter.com/SeamusB
 
 ### Activity
 
-This is a [fold](https://twitter.com/SeamusBlackley/status/1135343570645184512?s=20) technique that we will repeat in the next few steps:
+This is a [fold](https://xcancel.com/SeamusBlackley/status/1135343570645184512?s=20) technique that we will repeat in the next few steps:
 
   * Pick up the dough ball with your "off" hand or rest the dough on a flour-dusted surface and gently pinch one edge with your primary hand
   * Pull the edge out and up over the top of dough ball and press it into the ball
@@ -203,13 +203,13 @@ See also [here](https://youtu.be/9O1mmqEr0rI)
     * Choose one of these options:
       * Pretty easy mode: Flour your proofing basket with enough flour to make it non-stick
       * Slightly risky mode: Place tea towel in a bowl and use plenty of flour to make the tea towel non-stick
-      * [Easy mode](https://twitter.com/csmagor/status/1253475454180143104?s=20): In a bowl or proofing basket shape your baking paper so the loaf will [rise in a circular shape on the middle of the baking paper](https://twitter.com/csmagor/status/1253473940271316994?s=20). The baking paper should be of sufficient length and positioned so you can hold the ends of the baking paper to carry your fully-proofed loaf in a baking paper sling to the surface it will be baked on
+      * [Easy mode](https://xcancel.com/csmagor/status/1253475454180143104?s=20): In a bowl or proofing basket shape your baking paper so the loaf will [rise in a circular shape on the middle of the baking paper](https://xcancel.com/csmagor/status/1253473940271316994?s=20). The baking paper should be of sufficient length and positioned so you can hold the ends of the baking paper to carry your fully-proofed loaf in a baking paper sling to the surface it will be baked on
 
-  * [Dust the loaf with flour](https://twitter.com/SeamusBlackley/status/1135360486419996672?s=20)
+  * [Dust the loaf with flour](https://xcancel.com/SeamusBlackley/status/1135360486419996672?s=20)
     * In a different large bowl, or by sprinkling over the loaf in the main bowl, coat your loaf all over in a light dusting of loose flour
 
   * Place the dusted dough gently in the proofing basket or bowl. 
-  * [Drape the dry tea towel or waxed paper to cover](https://twitter.com/SeamusBlackley/status/1135361685089210368?s=20).
+  * [Drape the dry tea towel or waxed paper to cover](https://xcancel.com/SeamusBlackley/status/1135361685089210368?s=20).
 
 ## Step 15: Wait until the dough doubles in volume.
 
@@ -229,12 +229,12 @@ This is getting your loaf ready to _easily_ put in the oven for baking. You are 
   * Either: 
     * A length of baking paper that is long enough for you to carry your loaf in a sling to put in your dutch oven, *or*
     * A baking tray with baking paper lining it, *or*
-    * [A baking tray with a layer of semolina](https://twitter.com/SeamusBlackley/status/1135392534820077570?s=20) (enough to help prevent the loaf's bottom from sticking during baking)
+    * [A baking tray with a layer of semolina](https://xcancel.com/SeamusBlackley/status/1135392534820077570?s=20) (enough to help prevent the loaf's bottom from sticking during baking)
 
 ### Activity
 
   * Carefully turn out your loaf onto your pre-baking surface of choice (if necessary)
-  * [Use the knife to score the surface of your loaf. Try to make sure the cuts will open in a way that lets the loaf expand without cracking](https://twitter.com/SeamusBlackley/status/1135394087094312962?s=20).
+  * [Use the knife to score the surface of your loaf. Try to make sure the cuts will open in a way that lets the loaf expand without cracking](https://xcancel.com/SeamusBlackley/status/1135394087094312962?s=20).
 
 ## Step 18: Initial Baking (1:30PM)
 
@@ -265,6 +265,6 @@ This is getting your loaf ready to _easily_ put in the oven for baking. You are 
   * Move the loaf from the oven to your cooling rack
   * Set a timer for 30 minutes. *Do not cut the loaf before this timer goes off*. The cooling/drying process is important.
 
-## Step 21: [Photograph and consume bread](https://twitter.com/SeamusBlackley/status/1135402087980789762?s=20) (2:35PM)
+## Step 21: [Photograph and consume bread](https://xcancel.com/SeamusBlackley/status/1135402087980789762?s=20) (2:35PM)
 
 
