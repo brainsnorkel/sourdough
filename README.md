@@ -1,6 +1,6 @@
 # Concise Sourdough
 
-Thank you Seamus Blackley ([@SeamusBlackley](https://xcancel.com/SeamusBlackley)) for the [original recipe](https://xcancel.com/SeamusBlackley/status/1135281239634485249?s=20) ([@ThreadReader version of the recipe thread](https://threadreaderapp.com/thread/1135281239634485249.html)). 
+Thank you Seamus Blackley ([‪@seamus.bsky.social‬](https://bsky.app/profile/seamus.bsky.social)) for the [original recipe](https://xcancel.com/SeamusBlackley/status/1135281239634485249?s=20) ([@ThreadReader version of the recipe thread](https://threadreaderapp.com/thread/1135281239634485249.html)). 
 
 ## Table of Contents  
 
